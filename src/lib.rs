@@ -1,3 +1,3 @@
 pub fn f() {
-println!("hi");
+println!("main");
 }
